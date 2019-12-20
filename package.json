@@ -1,0 +1,22 @@
+{
+  "name": "rsa",
+  "version": "1.0.0",
+  "description": "Personalized RSA Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiangj1/rsa.git"
+  },
+  "keywords": [
+    "rsa"
+  ],
+  "author": "Xiang Jiang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiangj1/rsa/issues"
+  },
+  "homepage": "https://github.com/xiangj1/rsa#readme"
+}
