@@ -4,7 +4,7 @@
   "description": "Personalized RSA Package",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/xiangj1/rsa/issues"
   },
-  "homepage": "https://github.com/xiangj1/rsa#readme"
+  "homepage": "https://github.com/xiangj1/rsa#readme",
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  }
 }
